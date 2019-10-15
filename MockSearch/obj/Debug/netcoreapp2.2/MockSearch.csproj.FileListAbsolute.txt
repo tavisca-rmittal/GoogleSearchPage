@@ -1,0 +1,16 @@
+C:\Users\rmittal\Desktop\TAVISCA\MockSearch\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\rmittal\Desktop\TAVISCA\MockSearch\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\rmittal\Desktop\TAVISCA\MockSearch\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\rmittal\Desktop\TAVISCA\MockSearch\bin\Debug\netcoreapp2.2\MockSearch.deps.json
+C:\Users\rmittal\Desktop\TAVISCA\MockSearch\bin\Debug\netcoreapp2.2\MockSearch.runtimeconfig.json
+C:\Users\rmittal\Desktop\TAVISCA\MockSearch\bin\Debug\netcoreapp2.2\MockSearch.runtimeconfig.dev.json
+C:\Users\rmittal\Desktop\TAVISCA\MockSearch\bin\Debug\netcoreapp2.2\MockSearch.dll
+C:\Users\rmittal\Desktop\TAVISCA\MockSearch\bin\Debug\netcoreapp2.2\MockSearch.pdb
+C:\Users\rmittal\Desktop\TAVISCA\MockSearch\obj\Debug\netcoreapp2.2\MockSearch.csprojAssemblyReference.cache
+C:\Users\rmittal\Desktop\TAVISCA\MockSearch\obj\Debug\netcoreapp2.2\MockSearch.RazorAssemblyInfo.cache
+C:\Users\rmittal\Desktop\TAVISCA\MockSearch\obj\Debug\netcoreapp2.2\MockSearch.RazorAssemblyInfo.cs
+C:\Users\rmittal\Desktop\TAVISCA\MockSearch\obj\Debug\netcoreapp2.2\MockSearch.AssemblyInfoInputs.cache
+C:\Users\rmittal\Desktop\TAVISCA\MockSearch\obj\Debug\netcoreapp2.2\MockSearch.AssemblyInfo.cs
+C:\Users\rmittal\Desktop\TAVISCA\MockSearch\obj\Debug\netcoreapp2.2\MockSearch.RazorTargetAssemblyInfo.cache
+C:\Users\rmittal\Desktop\TAVISCA\MockSearch\obj\Debug\netcoreapp2.2\MockSearch.dll
+C:\Users\rmittal\Desktop\TAVISCA\MockSearch\obj\Debug\netcoreapp2.2\MockSearch.pdb

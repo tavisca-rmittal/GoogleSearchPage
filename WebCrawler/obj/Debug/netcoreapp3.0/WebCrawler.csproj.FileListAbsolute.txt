@@ -1,0 +1,14 @@
+C:\Users\rmittal\Desktop\TAVISCA\WebCrawler\bin\Debug\netcoreapp3.0\WebCrawler.exe
+C:\Users\rmittal\Desktop\TAVISCA\WebCrawler\obj\Debug\netcoreapp3.0\WebCrawler.csprojAssemblyReference.cache
+C:\Users\rmittal\Desktop\TAVISCA\WebCrawler\obj\Debug\netcoreapp3.0\WebCrawler.AssemblyInfoInputs.cache
+C:\Users\rmittal\Desktop\TAVISCA\WebCrawler\obj\Debug\netcoreapp3.0\WebCrawler.AssemblyInfo.cs
+C:\Users\rmittal\Desktop\TAVISCA\WebCrawler\bin\Debug\netcoreapp3.0\HtmlAgilityPack.dll
+C:\Users\rmittal\Desktop\TAVISCA\WebCrawler\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\rmittal\Desktop\TAVISCA\WebCrawler\obj\Debug\netcoreapp3.0\WebCrawler.csproj.CopyComplete
+C:\Users\rmittal\Desktop\TAVISCA\WebCrawler\bin\Debug\netcoreapp3.0\WebCrawler.deps.json
+C:\Users\rmittal\Desktop\TAVISCA\WebCrawler\bin\Debug\netcoreapp3.0\WebCrawler.runtimeconfig.json
+C:\Users\rmittal\Desktop\TAVISCA\WebCrawler\bin\Debug\netcoreapp3.0\WebCrawler.runtimeconfig.dev.json
+C:\Users\rmittal\Desktop\TAVISCA\WebCrawler\bin\Debug\netcoreapp3.0\WebCrawler.dll
+C:\Users\rmittal\Desktop\TAVISCA\WebCrawler\bin\Debug\netcoreapp3.0\WebCrawler.pdb
+C:\Users\rmittal\Desktop\TAVISCA\WebCrawler\obj\Debug\netcoreapp3.0\WebCrawler.dll
+C:\Users\rmittal\Desktop\TAVISCA\WebCrawler\obj\Debug\netcoreapp3.0\WebCrawler.pdb
